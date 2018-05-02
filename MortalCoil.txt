@@ -1,0 +1,9 @@
+Mortal Coil, for Outline 2k17, 128 bytes compo
+Kind of rotating starfield using one missile and DMA off!
+
+Platform: Atari 8-bit
+
+Credits to 'White Flame' for describing sine wave generation, found here:
+http://codebase64.org/doku.php?id=base:generating_approximate_sines_in_assembly
+
+F#READY, May 2017
